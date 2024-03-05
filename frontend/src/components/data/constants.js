@@ -1,0 +1,1 @@
+export const CATEGORIES = ["Laptop", "Mobile", "Desktop", "Accessories", "Printers"];
